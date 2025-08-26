@@ -1,0 +1,23 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_results.txt
+START_TIME: Tue Aug 26 17:17:43 2025
+URL_BASE: http://localhost:8000/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://localhost:8000/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT CONNECT)
+
+-----------------
+END_TIME: Tue Aug 26 17:17:43 2025
+DOWNLOADED: 0 - FOUND: 0
