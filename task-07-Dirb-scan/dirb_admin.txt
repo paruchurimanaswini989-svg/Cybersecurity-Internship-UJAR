@@ -1,0 +1,16 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_admin.txt
+START_TIME: Wed Sep  3 17:29:41 2025
+URL_BASE: http://testphp.vulnweb.com/admin/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://testphp.vulnweb.com/admin/ ----

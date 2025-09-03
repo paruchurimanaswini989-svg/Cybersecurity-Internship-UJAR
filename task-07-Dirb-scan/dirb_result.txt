@@ -1,0 +1,64 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_result.txt
+START_TIME: Wed Sep  3 17:26:50 2025
+URL_BASE: http://testphp.vulnweb.com/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://testphp.vulnweb.com/ ----
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_result.txt
+START_TIME: Wed Sep  3 17:27:38 2025
+URL_BASE: http://testphp.vulnweb.com/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://testphp.vulnweb.com/ ----
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_result.txt
+START_TIME: Wed Sep  3 17:28:58 2025
+URL_BASE: http://testphp.vulnweb.com/admin/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://testphp.vulnweb.com/admin/ ----
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_result.txt
+START_TIME: Wed Sep  3 17:29:14 2025
+URL_BASE: http://testphp.vulnweb.com/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://testphp.vulnweb.com/ ----
