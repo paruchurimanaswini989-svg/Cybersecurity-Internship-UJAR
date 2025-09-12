@@ -1,0 +1,17 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_ext_result.txt
+START_TIME: Wed Sep  3 17:31:28 2025
+URL_BASE: http://testphp.vulnweb.com/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+EXTENSIONS_LIST: (.php,.txt,.bak,.zip) | (.php)(.txt)(.bak)(.zip) [NUM = 4]
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://testphp.vulnweb.com/ ----
